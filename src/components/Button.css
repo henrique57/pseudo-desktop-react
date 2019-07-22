@@ -1,0 +1,9 @@
+.buttonDiv {
+  /* background-color: black; */
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.icon {
+  font-size: 36px;
+}

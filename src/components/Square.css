@@ -1,0 +1,72 @@
+.square {
+  border-radius: 6px;
+  margin: 1;
+  box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.2);
+}
+
+.topBar {
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  height: 20px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.closeButton {
+  font-size: 19px;
+}
+
+.blue {
+  background-color: rgba(51, 110, 177, 0.8);
+}
+
+.red {
+  background-color: rgba(177, 51, 51, 0.8);
+}
+
+.green {
+  background-color: rgba(93, 191, 63, 0.8);
+}
+
+.yellow {
+  background-color: rgba(252, 186, 3, 0.8);
+}
+
+.purple {
+  background-color: rgba(162, 64, 253, 0.8);
+}
+
+.blue-topbar {
+  background-color: rgb(51, 110, 177);
+}
+
+.red-topbar {
+  background-color: rgb(177, 51, 51);
+}
+
+.green-topbar {
+  background-color: rgb(93, 191, 63);
+}
+
+.yellow-topbar {
+  background-color: rgb(252, 186, 3);
+}
+
+.purple-topbar {
+  background-color: rgb(162, 64, 253);
+}
+
+.small {
+  width: 34px;
+  height: 34px;
+}
+
+.medium {
+  width: 150px;
+  height: 150px;
+}
+
+.large {
+  width: 300px;
+  height: 300px;
+}
